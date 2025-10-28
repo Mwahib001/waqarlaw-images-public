@@ -1,6 +1,6 @@
-# WaqarLaw - Lawyer Booking Platform
+# WaqarLaw - Project Showcase
 
-Welcome to the WaqarLaw project repository! This is a comprehensive lawyer booking platform built with cutting-edge technologies to provide a seamless experience for clients seeking legal consultations and for lawyers to manage their practices.
+Welcome to the WaqarLaw project showcase! This repository highlights a comprehensive lawyer booking platform built with cutting-edge technologies. As a client project, this repo contains only screenshots and documentation for demonstration purposes, showcasing the skills and implementation details.
 
 ## Project Overview
 
@@ -46,21 +46,6 @@ These images demonstrate the user-facing website, including the homepage, team p
 ![Admin Globals Homepage](localhost_3001_admin_globals_homepage.png)
 ![Our Team Page](localhost_3001_our-team.png)
 ![Services Page](localhost_3001_services.png)
-
-## Getting Started
-
-To explore the project locally:
-
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Set up environment variables for MongoDB, Cloudinary, and PayloadCMS.
-4. Run the development server: `npm run dev`
-
-For full setup and deployment instructions, refer to the project documentation.
-
-## Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request with your improvements.
 
 ## License
 
