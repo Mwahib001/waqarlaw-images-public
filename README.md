@@ -47,10 +47,6 @@ These images demonstrate the user-facing website, including the homepage, team p
 ![Our Team Page](localhost_3001_our-team.png)
 ![Services Page](localhost_3001_services.png)
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 *Showcasing the power of Next.js, PayloadCMS, MongoDB, and Cloudinary in building a robust lawyer booking platform.*
