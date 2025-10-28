@@ -34,6 +34,7 @@ WaqarLaw is a modern web application designed for booking lawyers based on speci
 These images showcase the admin panel interface for managing content, lawyers, media, and posts.
 
 ![Admin Dashboard](admin1.png)
+![Admin Globals Homepage](localhost_3001_admin_globals_homepage.png)
 ![Admin Lawyers Management](adminlawyers.png)
 ![Admin Media Library](adminmedia.png)
 ![Admin Posts Management](adminposts.png)
@@ -43,7 +44,6 @@ These images showcase the admin panel interface for managing content, lawyers, m
 These images demonstrate the user-facing website, including the homepage, team page, and services page.
 
 ![Homepage](localhost_3001_.png)
-![Admin Globals Homepage](localhost_3001_admin_globals_homepage.png)
 ![Our Team Page](localhost_3001_our-team.png)
 ![Services Page](localhost_3001_services.png)
 
